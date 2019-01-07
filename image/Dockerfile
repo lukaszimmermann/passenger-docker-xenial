@@ -1,5 +1,5 @@
 FROM phusion/baseimage:0.10.1
-MAINTAINER Phusion <info@phusion.nl>
+LABEL maintainer="luk.zim91@gmail.com"
 
 ADD . /pd_build
 RUN /pd_build/install.sh
