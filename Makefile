@@ -1,4 +1,4 @@
-NAME = phusion/passenger
+NAME = lukaszimmermann/phusion-passenger-xenial
 VERSION = 0.9.35
 # Extra flags for docker build, usable via environment variable.
 # Example: `export EXTRA_BUILD_FLAGS=--no-cache; make build_all`
